@@ -4,3 +4,4 @@ matplotlib==2.2.2
 pandas==0.22.0
 descartes==1.1.0
 ipywidgets==7.1.0
+Rtree==0.8.3
