@@ -1,0 +1,105 @@
+Provider,Location,Name,Notes,Available,Latitude,Longitude
+Microsoft Azure ,"Abu Dhabi, UAE ",UAE Central ,,n,24.48818,54.35495
+Digital Ocean,"Amsterdam, Netherlands",AMS2,,y,52.370216,4.895168
+Digital Ocean,"Amsterdam, Netherlands",AMS3,,y,52.370216,4.895168
+AWS,"Ashburn, Virginia",us-east-1,6 availability zones ,y,39.04237,-77.48724
+Google Cloud,"Ashburn, Virginia",us-east4,3 availability zones,y,39.04237,-77.48724
+Linode,"Atlanta, Georgia",US Southeast ,,y,33.748997,-84.387985
+AWS,Bahrain,,,n,26.0667,50.557701
+Digital Ocean,"Bangalore, India",BLR1,,y,12.971599,77.594566
+AWS,"Beijing, China",cn-north-1,2 availability zones ,n,39.904202,116.407394
+Microsoft Azure ,"Beijing, China",China North,,y,39.904202,116.407394
+Microsoft Azure ,"Beijing, China",China North 2 ,,y,39.904202,116.407394
+AWS,"Boardman, Oregon ",us-west-2 ,3 availability zones ,y,45.84117,-119.70205
+Microsoft Azure ,"Busan, South Korea ",Korea South ,,y,35.179554,129.075638
+Microsoft Azure ,California,West US,,y,36.717559,-119.784692
+Microsoft Azure ,"Canberra, Australia ",Australia Central ,,y,-35.280937,149.130005
+Microsoft Azure ,"Canberra, Australia ",Australia Central 2 ,,y,-35.280937,149.130005
+Microsoft Azure ,"Cape Town, South Africa",South Africa West ,,n,-33.92487,18.424055
+Microsoft Azure ,"Cardiff, United Kingdom ",UK West ,,y,51.48131,-3.1805
+Google Cloud,"Changhua County, Taiwan",asia-east1,3 availability zones,y,24.07555,120.545067
+Microsoft Azure ,"Chennai, India ",South India,,y,13.08268,80.270721
+AWS,"Columbus, Ohio",us-east-2,3 availability zones ,y,39.961178,-82.998795
+Google Cloud,"Council Bluffs, Iowa",us-central1,4 availability zones ,y,41.25896,-95.85436
+Linode,"Dallas, Texas ",US Central ,,y,32.776665,-96.796989
+Microsoft Azure ,"Dubai, UAE ",UAE North ,,n,25.204849,55.270782
+AWS,"Dublin, Ireland",eu-west-1,3 availability zones,y,53.349804,-6.26031
+Microsoft Azure ,"Dublin, Ireland",North Europe ,,y,53.349804,-6.26031
+Google Cloud,"Eemshaven, Netherlands",eruope-west4,3 availability zones,y,53.442108,6.82571
+AWS,"Frankfurt, Germany",eu-central-1,2 availability zones,y,50.110924,8.682127
+Google Cloud,"Frankfurt, Germany",europe-west3,3 availability zones,y,50.110924,8.682127
+Microsoft Azure ,"Frankfurt, Germany",Germany Central ,,y,50.110924,8.682127
+Linode,"Frankfurt, Germany",EU Central ,,y,50.110924,8.682127
+Digital Ocean,"Frankfurt, Germany ",FRA1,,y,50.110924,8.682127
+Linode,"Fremont, California",US West,,y,37.548271,-121.988571
+Microsoft Azure ,"Geneva, Switzerland ",Switzerland West ,,n,46.203812,6.13997
+Microsoft Azure ,Germany,Germany West Central ,,n,51.118772,6.748082
+Microsoft Azure ,Germany,Germany North,,n,52.49825,13.376496
+Google Cloud,"Hamina, Finland",europe-north1,3 availability zones,y,60.569199,27.1938
+AWS,"Hong Kong, China",,,n,22.309793,114.171589
+Microsoft Azure ,"Hong Kong, China",East Asia ,,y,22.309793,114.171589
+Microsoft Azure ,Illinois ,North Central US ,,y,40.633125,-89.398529
+Microsoft Azure ,Iowa,Cental US ,,,41.579081,-93.62901
+Microsoft Azure ,"Johannesburg, South Africa",South Africa North ,,n,-26.204103,28.047304
+Google Cloud,"Jurong West, Singapore",asia-southeast1,3 availability zones,y,1.310568,103.692727
+AWS,"London, United Kingdom",eu-west-2,3 availability zones,y,51.50722,-0.1275
+Google Cloud,"London, United Kingdom",europe-west2,3 availability zones,y,51.50722,-0.1275
+Microsoft Azure ,"London, United Kingdom",UK South ,,y,51.50722,-0.1275
+Digital Ocean,"London, United Kingdom",LON1,,y,51.50722,-0.1275
+Linode,"London, United Kingdom",EU West,,y,51.50722,-0.1275
+Google Cloud,"Los Angeles, California",us-west2 ,3 availability zones,y,34.0544,-118.2439
+Microsoft Azure ,"Magdeburg, Germany ",Germany Northeast ,,y,52.13333,11.61667
+Microsoft Azure ,"Marseille, France",France South ,,y,43.29667,5.37639
+Google Cloud,"Moncks Corner, South Carolina ",us-east1,3 availability zones,y,33.196,-80.0131
+AWS,"Montreal, Canada",ca-central-1,2 availability zones ,y,45.5088,-73.554
+Google Cloud,"Montreal, Canada",northamerica-northeast1,3 availability zones,y,45.5088,-73.554
+AWS,"Mumbai, India",ap-south-1,2 availability zones ,y,18.96667,72.83333
+Google Cloud,"Mumbai, India",asia-south1,3 availability zones,y,18.96667,72.83333
+Microsoft Azure ,"Mumbai, India",West India ,,y,18.96667,72.83333
+Microsoft Azure ,Netherlands ,West Europe,,y,52.21158,5.600489
+Microsoft Azure ,"New South Wales, Australia ",Australia East ,,y,-32.826687,146.632891
+Digital Ocean,"New York City, New York",NYC1,,y,40.7648,-73.9808
+Digital Ocean,"New York City, New York",NYC2,,y,40.7648,-73.9808
+Digital Ocean,"New York City, New York",NYC3,,y,40.7648,-73.9808
+Linode,"Newark, New Jersey",US East,,y,40.7357,-74.1724
+AWS,"Ningxia, China",,3 availability zones,n ,37.316844,105.97583
+Microsoft Azure ,Norway,Norway West,,n,60.3943,5.3258
+Microsoft Azure ,Norway ,Norway East ,,n,59.972175,10.775647
+AWS,"Osaka, Japan",,1 availability zone ,n ,29.744333,-95.38814
+Microsoft Azure ,"Osaka, Japan",Japan West ,,y,29.744333,-95.38814
+AWS,"Paris, France",eu-west-3,3 availability zones,y,48.859489,2.320582
+Microsoft Azure ,"Paris, France",France Central ,,y,48.859489,2.320582
+Microsoft Azure ,"Pune, India",Central India,,y,18.52361,73.84778
+Microsoft Azure ,"Quebec City, Canada ",Canada East ,,y,46.8257,-71.2349
+Digital Ocean,"San Francisco, California",SFO1,,y,37.7648,-122.463
+Digital Ocean,"San Francisco, California",SFO2,,y,37.7648,-122.463
+AWS,"San Jose, California",us-west-1,3 availability zones ,y,37.2751,-121.8261
+AWS,"São Paulo, Brazil",sa-east-1,3 availability zones,y,-23.5733,-46.6417
+Google Cloud,"São Paulo, Brazil",southamerica-east1,3 availability zones,y,-23.5733,-46.6417
+Microsoft Azure ,"São Paulo, Brazil",Brazil South ,,y,-23.5733,-46.6417
+AWS,"Seoul, South Korea",ap-northeast-2,2 availability zones,y,37.564771,126.939358
+Microsoft Azure ,"Seoul, South Korea",Korea Central ,,y,37.564771,126.939358
+Microsoft Azure ,"Shanghai, China",China East,,y,31.16667,121.46667
+Microsoft Azure ,"Shanghai, China ",China East 2 ,,y,31.16667,121.46667
+AWS,"Singapore, Singapore",ap-southeast-1,3 availability zones ,y,1.351616,103.808053
+Microsoft Azure ,"Singapore, Singapore",Southeast Asia ,,y,1.351616,103.808053
+Digital Ocean,"Singapore, Singapore",SGP1,,y,1.351616,103.808053
+Linode,"Singapore, Singapore",AP South ,,y,1.351616,103.808053
+Google Cloud,"St. Ghislain, Belgium",europe-west1,3 availability zones,y,50.45,3.81667
+AWS,Sweden,,,n,64.964875,17.675409
+AWS,"Sydney, Australia ",ap-southeast-2,3 availability zones ,y,-33.868,151.21
+Google Cloud,"Sydney, Australia ",australia-southeast1,3 availability zones,y,-33.868,151.21
+Microsoft Azure ,Texas,South Central US  ,,y,31.169621,-99.683617
+Google Cloud,"The Dalles, Oregon",us-west1,3 availability zones,y,45.5946,-121.1787
+AWS,"Tokyo, Japan",ap-northeast-1,4 availability zones ,y,35.652801,139.724455
+Google Cloud,"Tokyo, Japan",asia-northeast1,3 availability zones,y,35.652801,139.724455
+Microsoft Azure ,"Tokyo, Japan",Japan East ,,y,35.652801,139.724455
+Linode,"Tokyo, Japan",AP Northeast ,,y,35.652801,139.724455
+Microsoft Azure ,"Toronto, Canada",Canada Central ,,y,43.6529,-79.3849
+Digital Ocean,"Toronto, Canada ",TOR1,,y,43.6529,-79.3849
+Microsoft Azure ,"Victoria, Australia ",Australia Southeast ,,y,-36.619223,144.591875
+Microsoft Azure ,Virginia,East US ,,y,38.00234,-78.224935
+Microsoft Azure ,Virginia ,East US 2 ,,y,38.00234,-78.224935
+Microsoft Azure ,"Seattle, Washington",West US 2 ,,y,47.6038,-122.3301
+Microsoft Azure ,Wyoming ,West Central US ,,y,42.983286,-107.548667
+Microsoft Azure ,"Zurich, Switzerland ",Switzerland North ,,n,47.37861,8.54
